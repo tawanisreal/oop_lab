@@ -1,4 +1,2 @@
-c = 'connect database'
-user = 't'
-password = '555'
+c = 'function login'
 print(c)
